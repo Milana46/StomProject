@@ -1,0 +1,9 @@
+frotend/node_modules/
+frotend/build/
+**/__pycache__/
+*.pyc
+.env
+.env.local
+.DS_Store
+~$*.xlsx
+~$*.docx
