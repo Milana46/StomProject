@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/StomProject/static/css/main.3a483bef.css",
-    "main.js": "/StomProject/static/js/main.40fac974.js",
+    "main.js": "/StomProject/static/js/main.6a8649d8.js",
     "static/js/453.4a874ad6.chunk.js": "/StomProject/static/js/453.4a874ad6.chunk.js",
     "index.html": "/StomProject/index.html",
     "main.3a483bef.css.map": "/StomProject/static/css/main.3a483bef.css.map",
-    "main.40fac974.js.map": "/StomProject/static/js/main.40fac974.js.map",
+    "main.6a8649d8.js.map": "/StomProject/static/js/main.6a8649d8.js.map",
     "453.4a874ad6.chunk.js.map": "/StomProject/static/js/453.4a874ad6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a483bef.css",
-    "static/js/main.40fac974.js"
+    "static/js/main.6a8649d8.js"
   ]
 }
